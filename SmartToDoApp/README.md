@@ -51,11 +51,6 @@ Displays:
 * Prevents multiple rapid clicks or filter calls
 * Improves performance and user experience
 
-### 💾 Data Persistence
-
-* Tasks are stored in **Browser localStorage**
-* Data remains available even after page refresh
-
 ---
 
 ## 🏗️ Project Structure
