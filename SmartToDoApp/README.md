@@ -1,4 +1,4 @@
-# Smart To-Do Manager (Bootstrap + JavaScript)
+# Smart To-Do Manager (HTML + Bootstrap + JavaScript)
 
 ## 📌 Project Overview
 
