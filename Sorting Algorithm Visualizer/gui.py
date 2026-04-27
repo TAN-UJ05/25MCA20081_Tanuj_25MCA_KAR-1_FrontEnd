@@ -3,7 +3,7 @@ from tkinter import ttk, messagebox
 import matplotlib.pyplot as plt
 
 # Import your sorting functions
-from SortingAlgos import (
+from algos import (
     selection_sort,
     insertion_sort,
     bubble_sort,
